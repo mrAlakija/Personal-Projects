@@ -1,2 +1,2 @@
 # Personal Projects
-Personal data science projects with mosylt fake data
+Personal data science projects with mostly fake data
