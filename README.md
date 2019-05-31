@@ -1,2 +1,2 @@
 # Personal Projects
-Personal data science projects with mostly fake data
+Personal data science, data analysis and  BI projects
